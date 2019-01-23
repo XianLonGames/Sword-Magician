@@ -1,2 +1,2 @@
-# ORTS
-Oriental Repair Truth System
+# OpenORTS
+Open Oriental Repair Truth System
