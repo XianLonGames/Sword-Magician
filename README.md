@@ -1,3 +1,5 @@
+# 游戏更名为Fatelog
+;; 20190203
 # OpenORTS
 Open Oriental Repair Truth System
 
