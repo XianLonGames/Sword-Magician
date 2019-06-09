@@ -1,7 +1,0 @@
-# Fatelog
----
--
--
-
--Just in time
-
