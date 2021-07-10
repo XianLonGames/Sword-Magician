@@ -1,5 +1,5 @@
 
-# 游戏更名为: Sword ㉿ Magician
+# Sword ㉿ Magician
 
 -中文原名: 东方修真系统
 
@@ -35,7 +35,7 @@
 
 -发行阶段: 早期开发版
 
--语言: all
+-语言: lua
 
 -网址: https://www.xianlon.games
 
